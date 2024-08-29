@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About"
+    android:background="@drawable/gradient_background">
+
+
+    <TextView
+        android:id="@+id/loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:text="ABOUT US"
+        android:textColor="#000000"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:textColorHighlight="#000000"
+        android:textColorLink="#000000"
+        android:textIsSelectable="true"
+        android:textSize="22sp" />
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp"
+        android:layout_width="350dp"
+        android:layout_marginTop="120dp"
+        android:layout_height="325dp"
+        android:layout_centerHorizontal="true"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:elegantTextHeight="true"
+            android:lineHeight="30dp"
+            android:padding="15dp"
+            android:text="This application has been developed by Soldiers Team for Smart India Hackathon. Topic: Personal/Women Safety."
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="20sp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="160dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Jaya Vignesh.R"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="205dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Arunkumar.M"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="255dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Chandrapal.K"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="190dp"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="160dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Bodheswaran.S"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="240dp"
+            android:layout_marginLeft="240dp"
+            android:layout_marginTop="205dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Aswin.G"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="215dp"
+            android:layout_marginLeft="215dp"
+            android:layout_marginTop="255dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:text="Jayapriya.S"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="30dp"
+        app:cardElevation="20dp"
+        android:layout_width="350dp"
+        android:layout_marginTop="480dp"
+        android:layout_height="140dp"
+        android:layout_centerHorizontal="true"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="10dp"
+            android:text="                 Particpants from"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="85dp"
+            android:layout_marginLeft="85dp"
+            android:layout_marginTop="45dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:paddingLeft="15dp"
+            android:text="Cyber Security DEPT"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="150dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="85dp"
+            android:elegantTextHeight="true"
+            android:padding="10dp"
+            android:paddingLeft="15dp"
+            android:text="MEC"
+            android:textColor="#000000"
+            android:textIsSelectable="true"
+            android:textSize="18sp" />
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottom_navigation"
+        android:background="@drawable/bottom_navigation_gradient"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+        app:menu="@menu/menu_navigation"
+        android:layout_marginBottom="0dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
