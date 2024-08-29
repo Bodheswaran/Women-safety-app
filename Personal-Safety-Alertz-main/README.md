@@ -8,19 +8,25 @@
 
 ## Developed by 
 
-**Android Geeks**
-at **DSC WoW Code Off Duty Hackathon**
+**Soldiers**
+at **Smart India Hackathon 2024**
 
 ## Team
 
-👤 [**Rehan Shaikh**](https://github.com/Rehan2156)
+👤 **Jayavignesh R**
 
-👤 [**Nikhil Giramkar**](https://github.com/Nikhil-Giramkar)
+👤 **Arunkumar M**
 
-👤 [**Shubham Rane**](https://github.com/rane-shubham)
+👤 **Chandrapal K**
 
+👤 **Aswin G**
+
+👤 **Bodheswaran S**
+
+👤 **Jayapriya M**
 
 Technology Stack and API's
+-
 * [Android](https://developer.android.com/docs)
 * [SQLite](https://www.sqlite.org/index.html)
 * [Google Places API](https://developers.google.com/places/web-service/overview)
@@ -39,12 +45,8 @@ Link to presentation video: https://youtu.be/gziuCjNqhsA
 
 Link to live stream presentation of project on YouTube: https://youtu.be/ZBn-t4ztprU?t=4176
 
-# Top 20🤩
-Team name: **Android Geeks**
-
-The project has been ranked in top 20 at <b>Google DSC WoW Code Off Duty Hackathon</b> among 500+ participating teams😎
-
-Submission link: https://devfolio.co/submissions/personal-safety-alertz-app
+# Smart Indiann Hackaton 2024
+Team name: **Soldiers**
 
 <img src="https://user-images.githubusercontent.com/58468910/103685282-f948c180-4fb2-11eb-9f50-c4873fc52165.JPG">
 
